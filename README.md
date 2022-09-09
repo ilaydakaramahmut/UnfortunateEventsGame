@@ -3,7 +3,7 @@
 
 #Things I used To Create Project
 
--Arduino Uno R3
--IR Remote and its library to control the character 
--NOKIA 5110 Display
--Adafruit Library to Display
+- Arduino Uno R3
+- IR Remote and its library to control the character 
+- NOKIA 5110 Display
+- Adafruit Library to Display
